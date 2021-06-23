@@ -36,6 +36,8 @@ Each Markdown file is compiled into HTML with [markdown-it](https://github.com/m
 
 **Default theme**
 
+bryce.lu@sanofi.com
+
 * Responsive layout
 * [Optional Homepage](../theme/default-theme-config.md#homepage)
 * [Simple out-of-the-box header-based search](../theme/default-theme-config.md#built-in-search)
